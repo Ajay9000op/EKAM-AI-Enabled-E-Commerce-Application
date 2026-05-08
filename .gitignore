@@ -6,6 +6,4 @@ __pycache__/
 .DS_Store
 .env
 .streamlit/
-.saved_models/
-saved_models/
 
